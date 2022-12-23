@@ -40,7 +40,6 @@ main{
 
 .eye{
     position: absolute;
-    border: 1px solid white;
     top: 80px;
     width:326px;
     height: 250px;
